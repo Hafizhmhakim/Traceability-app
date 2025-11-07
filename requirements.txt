@@ -2,3 +2,7 @@ streamlit
 pandas
 qrcode
 pillow
+reportlab
+opencv-python-headless
+pyzbar
+numpy
